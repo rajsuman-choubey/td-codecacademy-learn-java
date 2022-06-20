@@ -8,8 +8,6 @@ public class Var_Initialization {
   static int q= m/n;
   static int r= m-n;
 
-
-
   {
     int n=90;//local variable
     System.out.println("variable "+ o);
