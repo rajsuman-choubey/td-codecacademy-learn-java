@@ -1,4 +1,4 @@
-package basicjava;
+package conditional_Statement;
 
 public class Var_Initialization {
   static int m=100;//static variable

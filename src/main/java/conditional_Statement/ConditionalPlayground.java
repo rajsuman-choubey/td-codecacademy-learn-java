@@ -1,4 +1,4 @@
-package basicjava;
+package conditional_Statement;
 
 public class ConditionalPlayground {
   public static void main(String[] args)

@@ -1,6 +1,6 @@
 
 package org.example;
-import basicjava.*;
+import conditional_Statement.*;
 
 public class Main {
 String s = "Hello";//Global variable
